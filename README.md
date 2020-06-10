@@ -1,2 +1,3 @@
 # HydroCouplePy
-Python implementation of HydroCouple
+
+A Python implementation of HydroCouple
